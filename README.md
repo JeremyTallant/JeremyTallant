@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy Tallant</h1>
-<h3 align="center">Currently enrolled in a Data Analytics Boot Camp at the University of Texas at San Antonio.</h3>
+<h3 align="center">Recent graduate of the Data Analytics Boot Camp at the University of Texas at San Antonio.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremytallant&label=Profile%20views&color=0e75b6&style=flat" alt="jeremytallant" /> </p>
 
