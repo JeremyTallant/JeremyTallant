@@ -19,7 +19,7 @@
 <b>Programming and Query Languages:</b><br>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"  alt="python" width="40" height="40"/> </a> 
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/raw/master/icons/r-lang.svg" title="R" alt="R" width="40" height="40"/> </a> 
-<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://github.com/JeremyTallant/databricks_image/blob/main/database-sql.svg" title="SQL (Query Language)" alt="SQL" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src=" title="SQL (Query Language)" alt="SQL" width="40" height="40"/> </a>
 
 <!-- Data Visualization -->
 <b>Data Visualization:</b><br>
