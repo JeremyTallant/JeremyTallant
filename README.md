@@ -21,7 +21,6 @@
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/raw/master/icons/r-lang.svg" title="R" alt="R" width="40" height="40"/> </a> 
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://github.com/JeremyTallant/databricks_image/blob/main/database-sql.svg" title="SQL (Query Language)" alt="SQL" width="40" height="40"/> </a>
 
-
 <!-- Data Visualization -->
 <b>Data Visualization:</b><br>
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" title="Chart.js"  alt="chartjs" width="40" height="40"/> </a> 
