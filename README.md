@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremytallant&label=Profile%20views&color=0e75b6&style=flat" alt="jeremytallant" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeremytallant" alt="jeremytallant" /></a> </p>
-
 - 📫 How to reach me **tallantj95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -70,6 +68,3 @@
 <b>IDEs and Editors:</b><br>
 <a href="https://code.visualstudio.com/docs/?dv=osx" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" title="Visual Studio Code"  alt="Visual Studio Code" width="40" height="40"/> </a>
 <a href="https://docs.jupyter.org/en/latest/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/jupyter.svg" title="Jupyter"  alt="jupyter" width="40" height="40"/> </a>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeremytallant&" alt="jeremytallant" /></p>
