@@ -22,7 +22,10 @@
 <!-- Data Visualization -->
 <b>Data Visualization:</b><br>
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" title="Chart.js"  alt="chartjs" width="40" height="40"/> </a> 
-<a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" title="D3.js"  alt="d3js" width="40" height="40"/> </a> 
+<a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" title="D3.js"  alt="d3js" width="40" height="40"/> </a>
+<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/JeremyTallant/databricks_image/blob/main/plotly.svg" title="Plotly" alt="Plotly" width="40" height="40"/> </a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/JeremyTallant/databricks_image/blob/main/matplotlib.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/JeremyTallant/databricks_image/blob/main/seaborn-icon.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/> </a>
 
 <!-- Databases -->
 <b>Databases:</b><br>
@@ -68,5 +71,3 @@
 <b>IDEs and Editors:</b><br>
 <a href="https://code.visualstudio.com/docs/?dv=osx" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" title="Visual Studio Code"  alt="Visual Studio Code" width="40" height="40"/> </a>
 <a href="https://docs.jupyter.org/en/latest/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/jupyter.svg" title="Jupyter"  alt="jupyter" width="40" height="40"/> </a>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JeremyTallant&theme=dark" alt="GitHub Streak" /></a>
