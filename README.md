@@ -68,3 +68,5 @@
 <b>IDEs and Editors:</b><br>
 <a href="https://code.visualstudio.com/docs/?dv=osx" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" title="Visual Studio Code"  alt="Visual Studio Code" width="40" height="40"/> </a>
 <a href="https://docs.jupyter.org/en/latest/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/jupyter.svg" title="Jupyter"  alt="jupyter" width="40" height="40"/> </a>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JeremyTallant&theme=dark" alt="GitHub Streak" /></a>
