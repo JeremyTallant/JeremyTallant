@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeremy Tallant</h1>
 <h3 align="center">A passionate Data Analytics enthusiast</h3>
-<h4 align="center">Tableau Report Developer at <img src="https://github.com/JeremyTallant/databricks_image/blob/main/H-E-B%20logo.svg" width="40" /> | Pursuing a Bachelor of Science in Data Analytics at Western Governors University</h4>
+<h4 align="center">Tableau Report Developer at <img src="https://github.com/JeremyTallant/databricks_image/blob/main/H-E-B%20logo.svg" width="60"/> | Pursuing a Bachelor of Science in Data Analytics at Western Governors University</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremytallant&label=Profile%20views&color=0e75b6&style=flat" alt="jeremytallant" /> </p>
 
