@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremytallant&label=Profile%20views&color=0e75b6&style=flat" alt="jeremytallant" /> </p>
 
-- 📫 How to reach me **tallantj95@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jeremy-tallant-717075220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremy-tallant-717075220/" height="30" width="40" /></a>
